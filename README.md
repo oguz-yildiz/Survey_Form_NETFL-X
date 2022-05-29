@@ -7,7 +7,9 @@ Project Skeleton
 |----solution
         |----index.html  
         |----style.css   
-        |----result.html 
+        |----result.html
+        
+        
 Expected Outcome
-Project 001 Snapshot
+
 ![Netflix_survey_form](https://user-images.githubusercontent.com/101864544/170862771-77ff76ba-9f11-4da5-877c-3c56f1591554.png)
